@@ -3,21 +3,8 @@
 #### 介绍
 用前端三件套开发的扫雷游戏，小小的扫雷游戏，逻辑也挺复杂的o(╥﹏╥)o
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 项目demo预览地址
+http://programmercharlie.gitee.io/minesweeping-javascript/
 
 #### 参与贡献
 
